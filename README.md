@@ -7,3 +7,9 @@ The easiest way to install LightFace is to install it via [PyPI](https://pypi.or
 ```python
 pip install lightface
 ```
+
+## Licence
+
+LightFace is licensed under the MIT License - see [`LICENSE`](https://github.com/serengil/lightface/blob/master/LICENSE) for more details.
+
+[Logo](https://thenounproject.com/term/face-recognition/2965879/) is created by [Adrien Coquet](https://thenounproject.com/coquet_adrien/). Licensed under [Creative Commons: By Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
